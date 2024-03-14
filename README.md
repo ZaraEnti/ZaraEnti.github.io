@@ -62,3 +62,13 @@ _Para la cursiva se suele utilizar un gúión bajo al principio y al final_
 	1. para meterlo dentro de la lista otra lista de elementos
 	2. con tabulación logrmos que este dentro del elemento 2
 3. y asi seguimos con otras cosas
+
+### Imágenes
+Para añadir las imagenes, hemos de dar una descripción y el nombre de la imgaen y la ruta.
+
+![Paisaje de lavandas](paisaje.jpg)
+
+La sintqaxis es: exclamación y la llave angulada para el nombre. Seguidamente añadimos paréntesis para podene el nombre de la imagen.
+
+
+**Nota:**_Tiene que ser sin espacios_
