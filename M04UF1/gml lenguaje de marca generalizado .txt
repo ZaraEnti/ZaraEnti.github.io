@@ -1,0 +1,39 @@
+gml lenguaje de marca generalizado se creava para dar forma a los documentos
+solo ascii 
+nos indica en impresora 
+1980
+sgml formato estandarizado añadir otras cosas cuando empieza y cuando acaba un bloque.
+los ordenadores se conectan entre si 1991 tim Berners-lee concepto nuevo el hipertexto.
+http hiper dimension extra -->html -->pensado para la web.Al que esta en un servidor y poder accedr a ello.
+
+como descargado?
+parelamente primer navegador web mosaic 
+1991 paso un tiempo y empezaron a aparecer el primer navegador comercial. gratiuto con sercvicios de pago.
+netscape 
+msn 1995 crea eso para win95  murio muy rápido 
+1996 internet explore3 se lo compró
+tenemos tambien html 2.0 no maquetación utilizaba tablas para poner forma.
+1997 html3.0 aparece css hojas de estilo en cascada al tener un standar pero internet explore y netscap se mostraba diferente
+1998 internet explore5 instalación en el propio sistema operativo
+1999 html4.01 standert nuevas etiquetas css
+internet exprore como no lo sigue... ol pues necesitamos un consorcio w3c--> vamos a hacer un iso. ciertas etiquetas se cierran-->sgml -->xml leguage de marcas extendido. Estricto seguir las reglas sino no se constrye bien. Define estructura no como son los datos.
+2000 xhtml 
+la empresa netscape 1999 2000 banca rota pues hacen una fundación esliberar código. Documentar rtodo los estandares de internet. Ayudar a la mejorar y hacer un navegador opensourse que siga los estandares a rajatabla. tiene muchas cosas . firefox 
+2004 la gente lo descarga porque la gente queria. firefox va más rápido. 65% de internet. funcionaba en los diferentes si funciona
+google 6 7 de existencia--era el exponsor de mozilla descargate chrome. google utilizo un motor que ya existia 
+KDE sistema de escritorio un entorno de ventanas 
+KONKEROR internamente tiene un motor khtml opensourse y liberal la licencia de khtml se puede hacer ciosas cerradas. motor render
+
+hacer un projecto paralelo como chrommium -- navegadies qye li utiliza chrome safari brave
+2006 sale chrme
+gmail mail 
+controla el futuro de los protocolos
+
+w3c
+adobe flash 2006 solo se puede ver vidio atraves flash. controla el internet 
+html5 todo lo necesarios para que sea un navegador web 
+
+2011 tardaron tanto has ta definir el html5 ya es un estandar real
+la ultima version de internet explore11 2013
+edge 2015 matar el motor del navegador y poner el cromim .
+html5 living schene se va mejorando optimo. css3 lenguaje estnadar como se ven las cosas . semántica la entonancio en voz.

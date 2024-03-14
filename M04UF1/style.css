@@ -1,0 +1,41 @@
+<style>
+	
+	/*body{
+	background-color:red;
+	color:#ffffff;
+	}
+	h1{
+
+	background-color:#ff0000;
+	}
+	nav{
+	background-color:grey;
+	}
+	p{
+	border:8px dotted yellow;
+	background-color:pink;	
+	}*/
+	
+
+	footer{
+	background-color:#a3a3a3;
+	text-align:center;
+	border-top:8px solid black;
+	}
+	header{
+	background-color:#f0f0f0;
+	border-bottom:8px solid black;
+	}
+	header nav a{
+	text-decoration:none;
+	
+	}
+	header a: hover{
+	background-color:black;
+	text-decoration:underline;
+	}
+	ul{
+	list-style:none;
+	}
+	
+	</style>

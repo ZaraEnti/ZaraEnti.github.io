@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<head>
+<title>MiniJuego</title>
+<style>
+</style>
+</head>
+
+<body>
+<main>
+<h1>MiniJuego</h1>
+
+<form>
+<h2>MiniJuego Adivina numero</h2>
+<p>Adivinida un númreo del 1 al 100</p>
+<p id = " mensaje" ><em>Haz click</em></p>
+
+<p><label for="adivina">Adivina:</label><input type="text" id="adivina" name="adivina"/></p>
+<p><input type="button" value="Adivinar" id = "adivinar"/></p>
+
+<script>
+//primero de todo la sintaxis de xiang xshuijiao
+//inner lo muestro por la pantalla sustituyendolo
+
+let numero_random = Math.floor(Math.random()*100);//número random + floor prar redondear
+let mensaje = document.getElementById("mensaje");//para que pueda cambiar
+
+mensaje.innerHTML = "Has de introducir un número";
+
+let adivinar = document.getElementById("adivinar");//boton
+	
+	adivinar.addEventListener("click", function (event){
+	console.log("click");
+	console.l
+	
+	
+	if(adivinar.value == numero_random){
+		console.log("Has acertado");
+	}
+	if(adivinar.value>numero_random){
+		console.log("El número es más pequeño");
+	}
+});
+</script>
+</form>
+
+</main>
+
+<footer><p>Copyright (c) Zarais website 2024</p></footer>
+</body>

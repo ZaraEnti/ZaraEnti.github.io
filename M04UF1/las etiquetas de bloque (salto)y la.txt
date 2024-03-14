@@ -1,0 +1,2 @@
+las etiquetas de bloque (salto)y las etiquetas de linea (énfasis).
+las etiquetas en bloque eocupan un espacio horizontal y puede conterner etiquetas de linea
