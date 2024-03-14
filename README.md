@@ -1,8 +1,7 @@
 # ZaraEnti.github.io asignatura M01UF4
 Esto formará parte de la documentación de la UF1. Revisar el código para entender mejor.
 ## Marckdown
-Marckdowm es un lenguaje de código de marcas pensado en la docuemtntación y par se convertido a otros formatos.
-
+Marckdowm es un lenguaje de código de marcas pensado en la docuemtntación y par se convertido a otros formatos. Simplifica la maquetación de la doocumentación.
 
 Con las almoadillas son equivalente de los h1, h2 , h3...
 
@@ -35,7 +34,8 @@ esto es otro parrágrafo
 *Con un asterisco destacamos*
 
 ### Cursiva
-_Para la cursiva se suele utilizar un gúión bajo al principio y al final_
+_Para la cursiva se suele utilizar un gúión bajo al principio y al final. Ha dos maneras de hacerlo: podemos utilizar un solo asterisco (principio-final) o guión bajo.
+_
 
 
 **Nota:**_Tiene que ser un guión bajo pegado. No tiene que tener estpacio en la frase a destacar_
@@ -72,3 +72,6 @@ La sintqaxis es: exclamación y la llave angulada para el nombre. Seguidamente a
 
 
 **Nota:**_Tiene que ser sin espacios_
+
+### Enlaces
+Los enlaces son parecidos las imágenes, la diferencia es que no llevan exclamación delante y se puede introducir dentro de las frases [como esta](http://enti.cat). 
