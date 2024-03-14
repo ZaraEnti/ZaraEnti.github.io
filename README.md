@@ -75,3 +75,15 @@ La sintqaxis es: exclamación y la llave angulada para el nombre. Seguidamente a
 
 ### Enlaces
 Los enlaces son parecidos las imágenes, la diferencia es que no llevan exclamación delante y se puede introducir dentro de las frases [como esta](http://enti.cat). 
+
+### Bloques de cita
+
+Loa bloques de cita nos ayudan a destacar el código o frasee de manera especial
+
+> Esto es una cita.
+
+Para la cita, se utiliza el símbolo mayor qué, seguido un espacio.
+
+> esto es otra cita
+> podemos hacer múltiples **lineas**
+> > cita dentro de otra cita
