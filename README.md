@@ -54,3 +54,11 @@ _Para la cursiva se suele utilizar un gúión bajo al principio y al final_
 - esto es para la lista sin orden
 - diferencia entre orden y desorden
 - que enteoria tiene que estar ordenado
+
+#### Anidadas
+
+1. 1.1
+2. 2.
+	1. para meterlo dentro de la lista otra lista de elementos
+	2. con tabulación logrmos que este dentro del elemento 2
+3. y asi seguimos con otras cosas
