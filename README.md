@@ -15,3 +15,12 @@ o para las lista enumerar
 2.la página por defecto es el README-md si no hay html
 
 las negritas entre **dos asteriscos** o la una para la *cursiva*
+### Cabeceras
+Para hacer las cabeceras se necesitan un estacio y un título
+
+### Para los párrafos
+para que tengamos dos parráfos insertar dos espacio
+para que nos muetra en la página
+
+
+esto es otro parrágrafo
