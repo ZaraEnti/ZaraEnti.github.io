@@ -42,3 +42,10 @@ _Para la cursiva se suele utilizar un gúión bajo al principio y al final_
 
 ### Negrita y cursiva
 ***Esto será en negrita y en cursiva a la vez si le damos 3 asteriscos***
+
+### Listas
+#### Ordenadas
+
+1. Necesitan un número para el elemneto
+2. el punto y el espacio
+3. y después añadimos el texto
