@@ -49,3 +49,8 @@ _Para la cursiva se suele utilizar un gúión bajo al principio y al final_
 1. Necesitan un número para el elemneto
 2. el punto y el espacio
 3. y después añadimos el texto
+
+#### Sin orden
+- esto es para la lista sin orden
+- diferencia entre orden y desorden
+- que enteoria tiene que estar ordenado
